@@ -9,7 +9,7 @@ from odoo.addons import decimal_precision as dp
 
 
 # create_by | create_date | update_by | update_date
-# Ganesh      27/10/2018   
+# Ganesh      27/10/2018   15/03/2019
 # Info : mrp.workorder inherit to adding following functionality
 
 class MrpWorkorder(models.Model):
